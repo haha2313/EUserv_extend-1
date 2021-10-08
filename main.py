@@ -436,3 +436,8 @@ if __name__ == "__main__":
     main_handler(None, None)
 
 
+# 有的说 把
+# if name == 'main':
+# 改成
+# def main_handler(event, context):
+# 然后应该就能照常部署了
